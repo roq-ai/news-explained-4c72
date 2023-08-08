@@ -1,0 +1,1232 @@
+[
+  {
+    "content": [
+      {
+        "id": "a5a7db2c-2d28-4dc4-9daa-1b3516f8c749",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T02:18:22.431Z",
+        "updated_at": "2023-08-07T11:45:05.486Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e7d195e9-a0f7-4f34-b926-5a83d22217b8",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T09:53:34.489Z",
+        "updated_at": "2023-08-07T01:30:12.426Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "33ac8f36-7f14-45b5-a9e1-c1507c9cd6dc",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T03:27:55.629Z",
+        "updated_at": "2023-08-07T20:59:23.651Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "7f33fd75-728e-4fd4-abc0-2f4c8083f60b",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T16:45:38.901Z",
+        "updated_at": "2023-08-07T13:42:59.060Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "bf5d9011-c870-4c57-8903-10a7f76bcedb",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T07:31:21.011Z",
+        "updated_at": "2023-08-07T06:18:22.193Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "f0d96600-86cb-4dc9-8c9d-07a344536540",
+        "created_at": "2023-08-07T14:38:02.778Z",
+        "updated_at": "2023-08-07T11:49:13.719Z",
+        "content_id": "7f33fd75-728e-4fd4-abc0-2f4c8083f60b",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "db6fdf2b-acf4-46a8-970d-bd14ab0d2cce",
+        "created_at": "2023-08-07T10:56:49.813Z",
+        "updated_at": "2023-08-07T16:27:41.591Z",
+        "content_id": "33ac8f36-7f14-45b5-a9e1-c1507c9cd6dc",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "42ee70af-9c1c-4442-9a0a-49a0363562e6",
+        "created_at": "2023-08-07T17:42:53.398Z",
+        "updated_at": "2023-08-07T07:54:08.663Z",
+        "content_id": "33ac8f36-7f14-45b5-a9e1-c1507c9cd6dc",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "992155f9-9b04-4467-afb7-ceee77af60c2",
+        "created_at": "2023-08-07T20:31:09.326Z",
+        "updated_at": "2023-08-07T12:16:11.408Z",
+        "content_id": "7f33fd75-728e-4fd4-abc0-2f4c8083f60b",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "38587bf1-bbda-4142-8019-e79f6c122668",
+        "created_at": "2023-08-07T01:54:33.294Z",
+        "updated_at": "2023-08-08T00:40:07.541Z",
+        "content_id": "a5a7db2c-2d28-4dc4-9daa-1b3516f8c749",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "9cc505b6-c33c-46c0-a876-e6c19f1b0f25",
+        "status": "Pending",
+        "created_at": "2023-08-07T14:20:18.076Z",
+        "updated_at": "2023-08-07T23:40:06.424Z",
+        "content_id": "7f33fd75-728e-4fd4-abc0-2f4c8083f60b",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "57777270-0ef4-4900-bbfa-2c810c4f8540",
+        "status": "Approved",
+        "created_at": "2023-08-07T18:11:05.245Z",
+        "updated_at": "2023-08-07T02:08:25.700Z",
+        "content_id": "bf5d9011-c870-4c57-8903-10a7f76bcedb",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "ad72abd6-ebe4-4e7e-a576-8ab3d3ae3c77",
+        "status": "Rejected",
+        "created_at": "2023-08-07T21:09:39.266Z",
+        "updated_at": "2023-08-07T10:57:53.633Z",
+        "content_id": "7f33fd75-728e-4fd4-abc0-2f4c8083f60b",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "dc7fabbc-bac9-4af7-8706-54ec3cc9f31d",
+        "status": "In Progress",
+        "created_at": "2023-08-07T09:15:42.762Z",
+        "updated_at": "2023-08-07T11:23:09.966Z",
+        "content_id": "bf5d9011-c870-4c57-8903-10a7f76bcedb",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "71d041b0-5fe7-46ef-8026-604b55174488",
+        "status": "Finalized",
+        "created_at": "2023-08-07T16:20:41.038Z",
+        "updated_at": "2023-08-07T07:01:03.063Z",
+        "content_id": "a5a7db2c-2d28-4dc4-9daa-1b3516f8c749",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "b9ce8d86-a01a-4d23-aa8b-d907de5a9d51",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T10:17:57.842Z",
+        "updated_at": "2023-08-07T06:32:59.369Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0cd9a0d7-880b-4821-9f61-b8178bd7a4c6",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T15:36:57.276Z",
+        "updated_at": "2023-08-07T23:07:24.450Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "cb8c163b-403b-456b-9897-5c47cbd4d7d2",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T07:05:58.153Z",
+        "updated_at": "2023-08-07T23:56:54.624Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "20972073-0333-4443-adde-b74cd0da410e",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T14:27:11.874Z",
+        "updated_at": "2023-08-07T14:01:24.260Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "06b7951a-c657-4066-9fab-8c0a9138e953",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T14:03:16.863Z",
+        "updated_at": "2023-08-07T03:33:54.132Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "9690aee0-1418-4397-8029-2a7d8de8ed1d",
+        "created_at": "2023-08-07T14:28:39.249Z",
+        "updated_at": "2023-08-07T01:47:09.690Z",
+        "content_id": "0cd9a0d7-880b-4821-9f61-b8178bd7a4c6",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "a9eec3c3-65ec-4307-b594-89ac317db76d",
+        "created_at": "2023-08-07T08:48:45.248Z",
+        "updated_at": "2023-08-07T14:27:52.950Z",
+        "content_id": "cb8c163b-403b-456b-9897-5c47cbd4d7d2",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "c63b9b44-d5ec-4be8-8d63-3444a07dbada",
+        "created_at": "2023-08-07T15:16:56.427Z",
+        "updated_at": "2023-08-07T21:48:49.254Z",
+        "content_id": "06b7951a-c657-4066-9fab-8c0a9138e953",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "c1bc3aa9-25d7-44f2-89ec-ea03ea45a876",
+        "created_at": "2023-08-07T18:28:17.702Z",
+        "updated_at": "2023-08-07T01:41:53.523Z",
+        "content_id": "06b7951a-c657-4066-9fab-8c0a9138e953",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "5c43d0e8-b559-4a7b-8cd6-ba33f04109c3",
+        "created_at": "2023-08-07T17:56:17.455Z",
+        "updated_at": "2023-08-07T21:21:46.954Z",
+        "content_id": "b9ce8d86-a01a-4d23-aa8b-d907de5a9d51",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "eb648635-0778-43d7-9ec5-5ae34f84cd47",
+        "status": "Pending",
+        "created_at": "2023-08-07T16:42:41.388Z",
+        "updated_at": "2023-08-07T20:20:02.536Z",
+        "content_id": "20972073-0333-4443-adde-b74cd0da410e",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "59a6bf56-7652-4ef8-b3e3-1cdfade8372b",
+        "status": "Approved",
+        "created_at": "2023-08-07T22:12:36.395Z",
+        "updated_at": "2023-08-07T03:33:58.906Z",
+        "content_id": "b9ce8d86-a01a-4d23-aa8b-d907de5a9d51",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "380d930e-c617-4273-b0f0-dbb9420c7dca",
+        "status": "Rejected",
+        "created_at": "2023-08-07T04:00:00.537Z",
+        "updated_at": "2023-08-07T15:44:21.734Z",
+        "content_id": "06b7951a-c657-4066-9fab-8c0a9138e953",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "39c09adc-f3f0-4f6a-9d29-723e2b3235e1",
+        "status": "In Progress",
+        "created_at": "2023-08-07T04:55:45.239Z",
+        "updated_at": "2023-08-07T16:22:15.045Z",
+        "content_id": "b9ce8d86-a01a-4d23-aa8b-d907de5a9d51",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "b52cf00e-d571-46f9-b3fd-a7e6451b885a",
+        "status": "Finalized",
+        "created_at": "2023-08-07T18:26:29.689Z",
+        "updated_at": "2023-08-07T06:11:10.465Z",
+        "content_id": "20972073-0333-4443-adde-b74cd0da410e",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "16b671fb-1c8f-4afc-9bbf-10b96858e350",
+        "title": "The Art of Cooking",
+        "explanation": "Discover the secrets of culinary excellence",
+        "created_at": "2023-08-07T04:07:06.160Z",
+        "updated_at": "2023-08-07T18:15:50.269Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "df57cbc0-cb4e-4aaf-9d57-a02860371996",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T20:08:47.171Z",
+        "updated_at": "2023-08-07T02:29:40.413Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e9a22071-6e67-42c9-a115-2d6685321e87",
+        "title": "The Power of Positive Thinking",
+        "explanation": "Unlock your true potential with a positive mindset",
+        "created_at": "2023-08-07T19:20:47.279Z",
+        "updated_at": "2023-08-07T21:07:43.889Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f2856bc6-e83e-43a4-8d98-d73341dab7ea",
+        "title": "The History of Ancient Civilizations",
+        "explanation": "Unravel the mysteries of the past",
+        "created_at": "2023-08-07T03:25:17.948Z",
+        "updated_at": "2023-08-07T18:15:20.970Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5f12bf44-ecdb-451a-8426-e7a81b974e99",
+        "title": "Mastering the Guitar",
+        "explanation": "Become a guitar virtuoso with expert guidance",
+        "created_at": "2023-08-07T08:05:43.813Z",
+        "updated_at": "2023-08-07T02:05:45.351Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "ce93af8c-ae4e-4eb8-9a0e-5d4d9080d916",
+        "created_at": "2023-08-07T11:52:16.835Z",
+        "updated_at": "2023-08-07T05:20:32.692Z",
+        "content_id": "f2856bc6-e83e-43a4-8d98-d73341dab7ea",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "d8848449-a493-45fe-8a8b-b2c8989fb3e5",
+        "created_at": "2023-08-07T19:41:42.735Z",
+        "updated_at": "2023-08-07T03:38:43.442Z",
+        "content_id": "df57cbc0-cb4e-4aaf-9d57-a02860371996",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "1680ae98-9acc-4608-8815-af952edfb920",
+        "created_at": "2023-08-07T11:54:43.837Z",
+        "updated_at": "2023-08-07T05:06:25.297Z",
+        "content_id": "df57cbc0-cb4e-4aaf-9d57-a02860371996",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "21f6ffa3-675b-43a4-bb7d-ddd6d6bdd994",
+        "created_at": "2023-08-07T01:08:56.000Z",
+        "updated_at": "2023-08-07T01:47:46.229Z",
+        "content_id": "e9a22071-6e67-42c9-a115-2d6685321e87",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "17d4017a-a002-4001-afab-369ea5650b27",
+        "created_at": "2023-08-07T01:45:31.535Z",
+        "updated_at": "2023-08-07T20:37:50.020Z",
+        "content_id": "e9a22071-6e67-42c9-a115-2d6685321e87",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "4d5db54f-46cc-4777-96e0-eac5968c8b1b",
+        "status": "Pending",
+        "created_at": "2023-08-07T07:48:41.825Z",
+        "updated_at": "2023-08-07T11:37:24.881Z",
+        "content_id": "f2856bc6-e83e-43a4-8d98-d73341dab7ea",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "5f035a6c-a05a-475b-9877-9d26dc65ed65",
+        "status": "Approved",
+        "created_at": "2023-08-07T20:46:26.780Z",
+        "updated_at": "2023-08-07T18:02:11.502Z",
+        "content_id": "f2856bc6-e83e-43a4-8d98-d73341dab7ea",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "f563cc23-52ba-4e08-9622-5fa3a3e2f197",
+        "status": "Rejected",
+        "created_at": "2023-08-07T10:52:32.294Z",
+        "updated_at": "2023-08-07T23:28:22.211Z",
+        "content_id": "df57cbc0-cb4e-4aaf-9d57-a02860371996",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "81bf5b46-7dea-44d6-ad8d-1445f598b8ec",
+        "status": "In Progress",
+        "created_at": "2023-08-07T13:25:15.202Z",
+        "updated_at": "2023-08-07T13:00:58.528Z",
+        "content_id": "f2856bc6-e83e-43a4-8d98-d73341dab7ea",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "7d7f4f2a-57c1-446c-9932-284c2977bbab",
+        "status": "Finalized",
+        "created_at": "2023-08-07T08:29:04.771Z",
+        "updated_at": "2023-08-07T05:24:53.347Z",
+        "content_id": "16b671fb-1c8f-4afc-9bbf-10b96858e350",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "8650bd59-3234-418e-8325-1c1d8767782b",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T23:04:14.599Z",
+        "updated_at": "2023-08-07T19:14:51.976Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "60625a3f-a9a9-4fe2-9f13-77fdf68b081e",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T11:38:57.986Z",
+        "updated_at": "2023-08-07T13:33:50.474Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "4d2755d5-160c-4781-a67b-3999c4dda41a",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T20:25:00.322Z",
+        "updated_at": "2023-08-07T19:12:55.819Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6fd92984-3ae9-4565-85fb-57825c878ddb",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T23:45:49.615Z",
+        "updated_at": "2023-08-07T15:28:07.797Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "9182e410-a9df-4c9b-bff9-dd797f3a7803",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T07:02:17.545Z",
+        "updated_at": "2023-08-07T05:18:20.463Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "78ea7228-3187-4480-9395-0d1030c93481",
+        "created_at": "2023-08-08T00:38:47.797Z",
+        "updated_at": "2023-08-07T11:35:29.378Z",
+        "content_id": "6fd92984-3ae9-4565-85fb-57825c878ddb",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "c92e4af5-af6f-493e-8a54-e8a949a891c7",
+        "created_at": "2023-08-07T14:12:47.199Z",
+        "updated_at": "2023-08-07T19:03:42.204Z",
+        "content_id": "60625a3f-a9a9-4fe2-9f13-77fdf68b081e",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "2b41ea92-8279-4fb1-b65b-091ff015da8c",
+        "created_at": "2023-08-07T07:54:11.288Z",
+        "updated_at": "2023-08-07T11:07:18.146Z",
+        "content_id": "6fd92984-3ae9-4565-85fb-57825c878ddb",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "93816362-a1e5-4caa-9c27-9c2e87b1a88b",
+        "created_at": "2023-08-07T12:16:55.820Z",
+        "updated_at": "2023-08-07T11:55:22.408Z",
+        "content_id": "60625a3f-a9a9-4fe2-9f13-77fdf68b081e",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "565815f3-1b47-4e8c-a4f4-4498d43af1ed",
+        "created_at": "2023-08-07T22:15:09.606Z",
+        "updated_at": "2023-08-07T02:53:50.516Z",
+        "content_id": "8650bd59-3234-418e-8325-1c1d8767782b",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "3a4b3db3-e68d-4962-9ef9-717e87a6927b",
+        "status": "Pending",
+        "created_at": "2023-08-08T00:20:10.563Z",
+        "updated_at": "2023-08-07T07:31:05.718Z",
+        "content_id": "8650bd59-3234-418e-8325-1c1d8767782b",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "baa2e317-a6b4-4f2d-95ac-7e6e9aa1eb3e",
+        "status": "Approved",
+        "created_at": "2023-08-07T12:39:40.365Z",
+        "updated_at": "2023-08-07T07:47:29.566Z",
+        "content_id": "6fd92984-3ae9-4565-85fb-57825c878ddb",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "ac8a0239-e694-4240-ac9f-6fcbc79f438c",
+        "status": "Rejected",
+        "created_at": "2023-08-07T12:24:10.436Z",
+        "updated_at": "2023-08-07T01:24:11.351Z",
+        "content_id": "60625a3f-a9a9-4fe2-9f13-77fdf68b081e",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "94b333fe-5e20-4fad-a309-49ffafae6bd4",
+        "status": "In Progress",
+        "created_at": "2023-08-07T14:38:13.728Z",
+        "updated_at": "2023-08-07T16:15:14.108Z",
+        "content_id": "4d2755d5-160c-4781-a67b-3999c4dda41a",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "54c1022f-41d5-48ba-b1be-828dd7ccec89",
+        "status": "Finalized",
+        "created_at": "2023-08-07T10:36:14.184Z",
+        "updated_at": "2023-08-07T12:01:40.039Z",
+        "content_id": "9182e410-a9df-4c9b-bff9-dd797f3a7803",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "e93ec4d7-db95-4611-97d9-2b9b0d8ba4a8",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T06:35:07.063Z",
+        "updated_at": "2023-08-07T01:46:25.374Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b63b53b8-c270-44fd-9ebc-f29f5f6428c6",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T00:55:29.040Z",
+        "updated_at": "2023-08-07T12:42:30.857Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2738f992-f45a-48d4-91e7-c53dfdf438ff",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T16:16:22.849Z",
+        "updated_at": "2023-08-07T07:59:44.250Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8059d836-06d4-4130-bf1c-301bfa3f2059",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T16:17:47.866Z",
+        "updated_at": "2023-08-07T08:24:18.080Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e03c6212-c658-493f-8ac7-a142fa3e7a0f",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T12:59:18.368Z",
+        "updated_at": "2023-08-07T12:54:27.533Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "63499deb-3c2d-430f-af42-e65925c3fc0b",
+        "created_at": "2023-08-07T11:21:00.170Z",
+        "updated_at": "2023-08-07T15:34:34.818Z",
+        "content_id": "8059d836-06d4-4130-bf1c-301bfa3f2059",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "8e0dd5b3-6e48-46de-9267-7c92c7705b2a",
+        "created_at": "2023-08-07T16:32:37.803Z",
+        "updated_at": "2023-08-08T00:11:30.164Z",
+        "content_id": "8059d836-06d4-4130-bf1c-301bfa3f2059",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "6f93dedc-043c-43a8-8120-b7dccf85c973",
+        "created_at": "2023-08-07T07:38:18.064Z",
+        "updated_at": "2023-08-07T08:44:55.997Z",
+        "content_id": "e93ec4d7-db95-4611-97d9-2b9b0d8ba4a8",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "5a048be0-1bd8-44db-a4f7-191b1c9f34c2",
+        "created_at": "2023-08-07T10:19:29.291Z",
+        "updated_at": "2023-08-07T17:31:36.774Z",
+        "content_id": "e03c6212-c658-493f-8ac7-a142fa3e7a0f",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "0c091dd7-5c9a-413c-93f6-c534514688b8",
+        "created_at": "2023-08-07T18:08:56.991Z",
+        "updated_at": "2023-08-07T02:35:44.488Z",
+        "content_id": "e93ec4d7-db95-4611-97d9-2b9b0d8ba4a8",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "eea22418-09c6-49c7-b48e-6476252da928",
+        "status": "Pending",
+        "created_at": "2023-08-07T05:18:11.089Z",
+        "updated_at": "2023-08-07T04:26:46.935Z",
+        "content_id": "8059d836-06d4-4130-bf1c-301bfa3f2059",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "d806b119-500b-4292-be81-6bcb9e3ed488",
+        "status": "Approved",
+        "created_at": "2023-08-07T00:50:38.276Z",
+        "updated_at": "2023-08-07T05:26:37.122Z",
+        "content_id": "e03c6212-c658-493f-8ac7-a142fa3e7a0f",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "c93ae8fe-cf50-4547-9756-e05d762a9ab2",
+        "status": "Rejected",
+        "created_at": "2023-08-07T18:34:35.308Z",
+        "updated_at": "2023-08-07T09:46:57.971Z",
+        "content_id": "8059d836-06d4-4130-bf1c-301bfa3f2059",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "b94a718f-40b1-4e98-aceb-2fded8dfef9b",
+        "status": "In Progress",
+        "created_at": "2023-08-07T21:51:31.414Z",
+        "updated_at": "2023-08-07T17:54:40.673Z",
+        "content_id": "b63b53b8-c270-44fd-9ebc-f29f5f6428c6",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "ee17b112-bd75-4e1b-93ee-dcf7b4b5e44c",
+        "status": "Finalized",
+        "created_at": "2023-08-07T21:04:52.661Z",
+        "updated_at": "2023-08-07T21:18:02.292Z",
+        "content_id": "8059d836-06d4-4130-bf1c-301bfa3f2059",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "2f014c0a-b72e-476f-a300-2d8aa40929b8",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T02:59:39.930Z",
+        "updated_at": "2023-08-07T10:18:04.855Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "84896813-e205-4235-bac3-101abd5068ab",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T22:24:21.897Z",
+        "updated_at": "2023-08-07T15:34:38.079Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a6b99cb4-e992-4754-a2d2-8bf8ee3cde31",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T06:12:30.511Z",
+        "updated_at": "2023-08-07T13:46:28.463Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2ab353b0-0dec-4053-9f1f-9dac9d9dcdda",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T02:04:22.687Z",
+        "updated_at": "2023-08-07T17:30:53.990Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c79a5410-90f6-4525-a77d-73406438262c",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T10:36:17.723Z",
+        "updated_at": "2023-08-07T21:51:41.576Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "8eafdd49-fbef-4d14-9c89-8c8f2da6bcd3",
+        "created_at": "2023-08-07T05:47:33.496Z",
+        "updated_at": "2023-08-07T08:14:25.029Z",
+        "content_id": "a6b99cb4-e992-4754-a2d2-8bf8ee3cde31",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "8cdb666c-e791-4475-ac68-9c1706f7c68d",
+        "created_at": "2023-08-07T17:20:59.630Z",
+        "updated_at": "2023-08-07T05:03:47.962Z",
+        "content_id": "84896813-e205-4235-bac3-101abd5068ab",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "9e22d884-b80c-47b6-8380-64df06ccd380",
+        "created_at": "2023-08-07T10:03:55.690Z",
+        "updated_at": "2023-08-07T05:35:24.638Z",
+        "content_id": "2f014c0a-b72e-476f-a300-2d8aa40929b8",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "1d918c17-d972-4f0a-88f4-d47e5ac1a663",
+        "created_at": "2023-08-07T02:37:12.883Z",
+        "updated_at": "2023-08-07T22:54:32.250Z",
+        "content_id": "2ab353b0-0dec-4053-9f1f-9dac9d9dcdda",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "c22f1e59-2bfd-49cc-9bbd-b161566a60db",
+        "created_at": "2023-08-07T09:10:10.799Z",
+        "updated_at": "2023-08-07T18:46:04.577Z",
+        "content_id": "2f014c0a-b72e-476f-a300-2d8aa40929b8",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "1ed80e70-efcb-4e03-8542-a4c2e69dcb3c",
+        "status": "Pending",
+        "created_at": "2023-08-07T03:30:34.477Z",
+        "updated_at": "2023-08-07T06:36:01.470Z",
+        "content_id": "2f014c0a-b72e-476f-a300-2d8aa40929b8",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "084848fc-b4f2-49cb-a375-4888c6f4b865",
+        "status": "Approved",
+        "created_at": "2023-08-07T23:15:22.133Z",
+        "updated_at": "2023-08-07T11:32:49.233Z",
+        "content_id": "2f014c0a-b72e-476f-a300-2d8aa40929b8",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "1b67c81f-d1ce-45bf-a760-a38792f80baa",
+        "status": "Rejected",
+        "created_at": "2023-08-07T21:07:53.654Z",
+        "updated_at": "2023-08-07T10:49:34.515Z",
+        "content_id": "a6b99cb4-e992-4754-a2d2-8bf8ee3cde31",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "465ec2d7-a14e-4096-b619-016e84bbe923",
+        "status": "In Progress",
+        "created_at": "2023-08-07T12:28:22.791Z",
+        "updated_at": "2023-08-07T13:40:08.449Z",
+        "content_id": "c79a5410-90f6-4525-a77d-73406438262c",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "d5b7659c-b759-48ba-bd07-481e8f1988ae",
+        "status": "Finalized",
+        "created_at": "2023-08-07T05:46:18.711Z",
+        "updated_at": "2023-08-07T10:24:35.937Z",
+        "content_id": "84896813-e205-4235-bac3-101abd5068ab",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "18816ab7-96f7-43a5-b912-7e8872d1e1aa",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T04:22:12.448Z",
+        "updated_at": "2023-08-07T21:09:39.537Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "9fdc7e2f-6811-4e25-9668-58daf2ff788f",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T16:02:53.397Z",
+        "updated_at": "2023-08-07T21:35:45.952Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8d8ef453-3709-4b66-adbf-f479c72f092b",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T18:34:57.607Z",
+        "updated_at": "2023-08-08T00:30:26.287Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f8b965c1-ec04-4c69-9777-31557435f4eb",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T00:59:47.548Z",
+        "updated_at": "2023-08-07T19:35:01.204Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "12440ce0-59ad-4ad0-983c-e9c9a61c677c",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T02:36:53.323Z",
+        "updated_at": "2023-08-07T23:33:12.686Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "5dbd1aa2-380d-49a8-b69a-a4f52ebdc6cf",
+        "created_at": "2023-08-07T06:42:55.925Z",
+        "updated_at": "2023-08-07T19:19:00.763Z",
+        "content_id": "8d8ef453-3709-4b66-adbf-f479c72f092b",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "90536c18-633d-4477-aac8-bb363e27de66",
+        "created_at": "2023-08-07T06:52:50.016Z",
+        "updated_at": "2023-08-07T17:33:17.856Z",
+        "content_id": "12440ce0-59ad-4ad0-983c-e9c9a61c677c",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "a88a3efc-f391-4606-bf86-20a918da4ed7",
+        "created_at": "2023-08-07T09:26:02.252Z",
+        "updated_at": "2023-08-07T04:40:43.558Z",
+        "content_id": "18816ab7-96f7-43a5-b912-7e8872d1e1aa",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "d22cdf3e-79b5-4fa7-8d2b-d60a8a702248",
+        "created_at": "2023-08-07T18:58:54.054Z",
+        "updated_at": "2023-08-07T23:08:15.694Z",
+        "content_id": "12440ce0-59ad-4ad0-983c-e9c9a61c677c",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "76c842d4-6e64-4ecc-8e4a-f7b9eb17905c",
+        "created_at": "2023-08-07T20:21:41.320Z",
+        "updated_at": "2023-08-07T05:43:23.441Z",
+        "content_id": "9fdc7e2f-6811-4e25-9668-58daf2ff788f",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "a0335dc6-66e5-4c90-875b-b37e5644b51a",
+        "status": "Pending",
+        "created_at": "2023-08-07T02:56:57.110Z",
+        "updated_at": "2023-08-07T01:51:47.319Z",
+        "content_id": "f8b965c1-ec04-4c69-9777-31557435f4eb",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "fef36194-484e-4dc5-95f7-4a2b9e5ef5a0",
+        "status": "Approved",
+        "created_at": "2023-08-07T10:06:04.478Z",
+        "updated_at": "2023-08-07T23:15:33.135Z",
+        "content_id": "8d8ef453-3709-4b66-adbf-f479c72f092b",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "e6354f28-4bbd-4fa5-9990-583b62de8671",
+        "status": "Rejected",
+        "created_at": "2023-08-07T14:10:37.807Z",
+        "updated_at": "2023-08-07T07:17:40.613Z",
+        "content_id": "9fdc7e2f-6811-4e25-9668-58daf2ff788f",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "d1a91df1-2568-4ab6-bca2-0cdd7ed72f80",
+        "status": "In Progress",
+        "created_at": "2023-08-07T06:15:33.581Z",
+        "updated_at": "2023-08-07T01:39:57.725Z",
+        "content_id": "18816ab7-96f7-43a5-b912-7e8872d1e1aa",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "103bd18b-b033-4a4d-b1b7-26a3c70a2fae",
+        "status": "Finalized",
+        "created_at": "2023-08-07T05:09:15.560Z",
+        "updated_at": "2023-08-08T00:30:37.495Z",
+        "content_id": "18816ab7-96f7-43a5-b912-7e8872d1e1aa",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "717f5f2b-4a0f-49f6-81de-503062596ac5",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T22:33:11.060Z",
+        "updated_at": "2023-08-07T20:55:41.749Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "7b05a427-771d-4bb2-9e55-c100e7b8aa1a",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T08:56:48.619Z",
+        "updated_at": "2023-08-07T14:53:44.747Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5b2a0183-7693-4fe3-b9df-93c01df3c19b",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T06:50:40.675Z",
+        "updated_at": "2023-08-07T07:41:30.493Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "24c65b9f-5ff2-47ab-817d-e332c6e5214c",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T22:50:15.975Z",
+        "updated_at": "2023-08-07T20:17:54.452Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6db7d435-cb20-47c9-bda2-767ddc18bfb4",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T14:13:48.941Z",
+        "updated_at": "2023-08-07T10:01:54.219Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "a2402ac1-e658-4a26-befe-c1f500ae1f54",
+        "created_at": "2023-08-07T06:08:29.696Z",
+        "updated_at": "2023-08-07T05:25:11.832Z",
+        "content_id": "7b05a427-771d-4bb2-9e55-c100e7b8aa1a",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "014e96c7-03a3-4c54-ad3c-d5ad759f6075",
+        "created_at": "2023-08-07T06:31:28.805Z",
+        "updated_at": "2023-08-07T18:20:27.464Z",
+        "content_id": "24c65b9f-5ff2-47ab-817d-e332c6e5214c",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "0970d767-38da-4909-8dc6-1d3465bf90ca",
+        "created_at": "2023-08-07T08:46:11.514Z",
+        "updated_at": "2023-08-07T20:31:46.461Z",
+        "content_id": "24c65b9f-5ff2-47ab-817d-e332c6e5214c",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "1e450aaf-3b9c-4bb3-a511-09064c171ed5",
+        "created_at": "2023-08-07T22:14:15.076Z",
+        "updated_at": "2023-08-07T11:51:09.056Z",
+        "content_id": "5b2a0183-7693-4fe3-b9df-93c01df3c19b",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "d876ef54-9494-4f91-9159-d5d645e00a79",
+        "created_at": "2023-08-07T23:30:11.973Z",
+        "updated_at": "2023-08-07T18:12:32.694Z",
+        "content_id": "5b2a0183-7693-4fe3-b9df-93c01df3c19b",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "8ae44e35-382c-49e8-83b4-c422501a1356",
+        "status": "Pending",
+        "created_at": "2023-08-07T11:30:58.590Z",
+        "updated_at": "2023-08-07T20:45:27.945Z",
+        "content_id": "717f5f2b-4a0f-49f6-81de-503062596ac5",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "80126372-e122-4b30-8cba-ade7b5abcac4",
+        "status": "Approved",
+        "created_at": "2023-08-07T11:11:01.746Z",
+        "updated_at": "2023-08-07T09:53:22.888Z",
+        "content_id": "5b2a0183-7693-4fe3-b9df-93c01df3c19b",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "8c2bf2d2-322a-44df-9abd-f7756c77faa6",
+        "status": "Rejected",
+        "created_at": "2023-08-07T11:40:19.839Z",
+        "updated_at": "2023-08-07T01:59:25.234Z",
+        "content_id": "24c65b9f-5ff2-47ab-817d-e332c6e5214c",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "5f5945ac-22a3-4998-be48-33157cacafdc",
+        "status": "In Progress",
+        "created_at": "2023-08-07T01:47:01.101Z",
+        "updated_at": "2023-08-07T07:45:15.731Z",
+        "content_id": "6db7d435-cb20-47c9-bda2-767ddc18bfb4",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "f79f52bf-9761-4caf-b7ab-fe6546f8f11c",
+        "status": "Finalized",
+        "created_at": "2023-08-07T16:36:06.039Z",
+        "updated_at": "2023-08-07T17:12:11.778Z",
+        "content_id": "24c65b9f-5ff2-47ab-817d-e332c6e5214c",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "4238c5eb-475c-457b-be5f-f8df60c739c1",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T11:59:17.892Z",
+        "updated_at": "2023-08-07T13:13:19.202Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "23272798-4a98-41be-bfbe-1def01a71028",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T21:18:13.400Z",
+        "updated_at": "2023-08-07T08:09:52.166Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "ce2059a3-0f63-420b-bfad-a7fed4592461",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T20:29:26.069Z",
+        "updated_at": "2023-08-07T10:05:45.632Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b2e64d08-1a6c-4ed0-8a57-baa1ebb624e5",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T15:57:11.289Z",
+        "updated_at": "2023-08-07T19:07:49.177Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "4df713bc-d7bc-4bc9-a679-37e806573013",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T23:35:49.524Z",
+        "updated_at": "2023-08-07T17:57:15.112Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "d55504c9-0472-4605-aa54-d21265f8fcb8",
+        "created_at": "2023-08-07T20:26:00.658Z",
+        "updated_at": "2023-08-07T15:08:37.445Z",
+        "content_id": "23272798-4a98-41be-bfbe-1def01a71028",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "c401fe16-3d57-45c9-9433-834728d6a67f",
+        "created_at": "2023-08-07T16:17:56.977Z",
+        "updated_at": "2023-08-07T23:06:01.108Z",
+        "content_id": "4238c5eb-475c-457b-be5f-f8df60c739c1",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "52011800-9ffc-4723-9a0d-b13395aa891f",
+        "created_at": "2023-08-07T10:19:39.888Z",
+        "updated_at": "2023-08-07T14:33:13.328Z",
+        "content_id": "ce2059a3-0f63-420b-bfad-a7fed4592461",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "b43bd4af-50d6-4925-a96b-7f7a38cfe873",
+        "created_at": "2023-08-07T09:15:08.956Z",
+        "updated_at": "2023-08-07T08:32:28.399Z",
+        "content_id": "4238c5eb-475c-457b-be5f-f8df60c739c1",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "36fb1cf4-4035-4fab-8b4e-24575daafc60",
+        "created_at": "2023-08-07T05:41:56.392Z",
+        "updated_at": "2023-08-07T05:26:54.117Z",
+        "content_id": "ce2059a3-0f63-420b-bfad-a7fed4592461",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "6ceefdb8-0ac1-48a7-bd40-9fca0942d654",
+        "status": "Pending",
+        "created_at": "2023-08-07T01:18:11.995Z",
+        "updated_at": "2023-08-07T23:24:32.388Z",
+        "content_id": "b2e64d08-1a6c-4ed0-8a57-baa1ebb624e5",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "0eddb85c-99f9-496d-8673-fabc28edd817",
+        "status": "Approved",
+        "created_at": "2023-08-07T09:56:52.611Z",
+        "updated_at": "2023-08-08T00:46:32.865Z",
+        "content_id": "b2e64d08-1a6c-4ed0-8a57-baa1ebb624e5",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "8914227b-e542-4d3b-8d37-a7426a76762b",
+        "status": "Rejected",
+        "created_at": "2023-08-07T05:58:51.309Z",
+        "updated_at": "2023-08-07T20:04:47.828Z",
+        "content_id": "4df713bc-d7bc-4bc9-a679-37e806573013",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "131c3bb8-f87c-4ea3-8092-1ed6bb63873a",
+        "status": "In Progress",
+        "created_at": "2023-08-07T12:12:09.861Z",
+        "updated_at": "2023-08-07T10:51:49.556Z",
+        "content_id": "23272798-4a98-41be-bfbe-1def01a71028",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "f1e4bbff-3d0e-42e0-83f5-4b29a452ce0c",
+        "status": "Finalized",
+        "created_at": "2023-08-07T06:47:00.788Z",
+        "updated_at": "2023-08-07T12:11:15.216Z",
+        "content_id": "23272798-4a98-41be-bfbe-1def01a71028",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "id": "3d883c04-bebc-4dca-9570-d37b2f41d669",
+        "title": "The Art of Cooking",
+        "explanation": "Learn the secrets of culinary delights",
+        "created_at": "2023-08-07T15:56:19.470Z",
+        "updated_at": "2023-08-07T16:21:33.693Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e8ad4996-52ce-402f-b2fa-4d67db63bacd",
+        "title": "Exploring the Universe",
+        "explanation": "Embark on a journey through space and time",
+        "created_at": "2023-08-07T14:34:29.743Z",
+        "updated_at": "2023-08-07T15:30:17.272Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5c79a6f9-86f8-4fd0-b6b6-3a9544f75e6f",
+        "title": "Mastering the Guitar",
+        "explanation": "Unleash your musical talent",
+        "created_at": "2023-08-07T04:43:40.735Z",
+        "updated_at": "2023-08-07T03:41:04.386Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a853d63b-7290-4988-b618-45065d51a25b",
+        "title": "The Power of Meditation",
+        "explanation": "Find inner peace and tranquility",
+        "created_at": "2023-08-07T12:27:30.490Z",
+        "updated_at": "2023-08-07T10:52:14.755Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "278b2bc9-c112-4c80-973f-e0e69eade004",
+        "title": "Discovering Ancient Civilizations",
+        "explanation": "Uncover the mysteries of the past",
+        "created_at": "2023-08-07T11:29:30.825Z",
+        "updated_at": "2023-08-07T15:37:28.828Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "subscriber_content": [
+      {
+        "id": "f4bca004-cdc4-4594-9faa-c913371a0181",
+        "created_at": "2023-08-07T04:09:34.584Z",
+        "updated_at": "2023-08-07T03:32:04.884Z",
+        "content_id": "e8ad4996-52ce-402f-b2fa-4d67db63bacd",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "cd966c8a-2009-4d06-a531-cc4b9050026b",
+        "created_at": "2023-08-07T01:01:52.128Z",
+        "updated_at": "2023-08-07T10:55:20.824Z",
+        "content_id": "3d883c04-bebc-4dca-9570-d37b2f41d669",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "ad46983b-a029-413f-ade3-5ea2fed46a67",
+        "created_at": "2023-08-08T00:12:43.246Z",
+        "updated_at": "2023-08-07T12:10:27.896Z",
+        "content_id": "5c79a6f9-86f8-4fd0-b6b6-3a9544f75e6f",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "3db0b552-37e8-43a1-ab72-e9e232677625",
+        "created_at": "2023-08-07T20:01:42.752Z",
+        "updated_at": "2023-08-07T08:30:27.487Z",
+        "content_id": "e8ad4996-52ce-402f-b2fa-4d67db63bacd",
+        "subscriber_id": "user_entity_pk"
+      },
+      {
+        "id": "23abb6bc-bdb3-451c-8fd5-01ca06482e82",
+        "created_at": "2023-08-07T19:46:09.592Z",
+        "updated_at": "2023-08-07T04:26:33.767Z",
+        "content_id": "3d883c04-bebc-4dca-9570-d37b2f41d669",
+        "subscriber_id": "user_entity_pk"
+      }
+    ],
+    "editor_review": [
+      {
+        "id": "f355629b-7645-4383-aa7a-f91ab388eda8",
+        "status": "Pending",
+        "created_at": "2023-08-07T19:22:32.289Z",
+        "updated_at": "2023-08-07T12:43:48.992Z",
+        "content_id": "278b2bc9-c112-4c80-973f-e0e69eade004",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "517ab46f-761d-46a4-8337-9102a65dfa6b",
+        "status": "Approved",
+        "created_at": "2023-08-07T06:58:04.168Z",
+        "updated_at": "2023-08-07T09:29:09.214Z",
+        "content_id": "5c79a6f9-86f8-4fd0-b6b6-3a9544f75e6f",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "c547377f-3932-4e47-9c40-ecc1b13bcc6e",
+        "status": "Rejected",
+        "created_at": "2023-08-07T12:54:46.738Z",
+        "updated_at": "2023-08-07T13:50:27.680Z",
+        "content_id": "e8ad4996-52ce-402f-b2fa-4d67db63bacd",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "43884d0b-52c4-4606-8a19-0e315f862810",
+        "status": "In Progress",
+        "created_at": "2023-08-07T11:59:54.480Z",
+        "updated_at": "2023-08-07T01:33:28.175Z",
+        "content_id": "e8ad4996-52ce-402f-b2fa-4d67db63bacd",
+        "editor_id": "user_entity_pk"
+      },
+      {
+        "id": "937b2ba9-5896-417a-b7af-f6f03c510871",
+        "status": "Finalized",
+        "created_at": "2023-08-07T13:56:07.890Z",
+        "updated_at": "2023-08-07T01:53:10.011Z",
+        "content_id": "e8ad4996-52ce-402f-b2fa-4d67db63bacd",
+        "editor_id": "user_entity_pk"
+      }
+    ]
+  }
+]
